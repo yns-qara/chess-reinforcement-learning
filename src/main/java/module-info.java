@@ -5,4 +5,5 @@ module chess.chessai {
 
     opens chess.chessai to javafx.fxml;
     exports chess.chessai;
+    exports chess.chessai.controllers;
 }
